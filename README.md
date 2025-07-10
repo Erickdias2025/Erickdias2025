@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Erick Dias Gonçalves
 
-<!--
-**Erickdias2025/Erickdias2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Engenharia de Software**, focado em desenvolvimento web, Python e boas práticas de programação. Tenho interesse especial por tecnologia, automação e desenvolvimento de sistemas que realmente resolvem problemas.
 
-Here are some ideas to get you started:
+## 📚 O que estou estudando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Fundamentos de Engenharia de Software  
+- Lógica de Programação e Estruturas de Dados  
+- Desenvolvimento Web (HTML, CSS, JavaScript)  
+- Python 
+- Git e GitHub para controle de versão  
+- Projetos práticos com foco em soluções funcionais
+
+## 🛠 Tecnologias e ferramentas
+
+- 🐍 Python
+- 🌐 HTML, CSS e JavaScript  
+- ⚙️ Git e GitHub  
+- 🧠 VS Code  
+- 📊 Conceitos básicos de banco de dados  
+
+## 🎯 Objetivo
+
+Atuar como desenvolvedor backend ou fullstack, utilizando Python e tecnologias web, com foco em aprendizado contínuo, resolução de problemas e boas práticas de desenvolvimento.
+
+## 📫 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/erick-dias-gonçalves/)  
+- 📧 E-mail: **erickdias20255@gmail.com**
